@@ -1,4 +1,4 @@
 # Instalación SGBD
 
 ## Características de la VM
-![Características](imagenes/Especificaciones LinuxMint.png)
+![Características](imagenes/captura01.png)
