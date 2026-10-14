@@ -134,15 +134,15 @@ Comprueba si el **puerto** está abierto y responde (-z solo comprueba, -v muest
 `SHOW USER` / `SHOW CON_NAME`
 En Oracle, muestra el **usuario** conectado y la **base de datos** (PDB) en la que estamos
 
-![Comprobación Oracle](Imagenes/Comprobacion-Oracle.png)
+![Comprobacion Oracle](Imagenes/Comprobacion-Oracle.png)
 
 `SELECT current_user, current_database();`
 En PostgreSQL, muestra el **usuario** y la **base de datos** actuales
 
-![Comprobación PostgreSQL](Imagenes/Comprobacion-PostgreSQL.png)
+![Comprobacion PostgreSQL](Imagenes/Comprobacion-PostgreSQL.png)
 
 `SELECT CURRENT_USER(), DATABASE();`
 En MariaDB, muestra el **usuario** y la **base de datos** actuales
 
-![Comprobación MariaDB](Imagenes/Comprobacion-MariaDB.png)
+![Comprobacion MariaDB](Imagenes/Comprobacion-MariaDB.png)
 
